@@ -1,0 +1,36 @@
+/* 
+	Title: pageLoginProcessing.css
+	Author Name: Michael Kriskovic
+	Author Date: 2007-06-13
+	Description: Rules for Login Processing page.
+*/
+body {
+    font-family: Arial, sans-serif;
+    color: #000;
+    text-align: left;
+}
+
+h3 {
+    margin-top: 4em;
+    font-size: 14px;
+}
+
+p.note {
+    margin-bottom: 6em;
+    font-size: 11px;
+    color: #656565;
+}
+
+p.note a {
+    color: #656565;
+}
+
+p strong {
+    margin-top: 2em;
+    font-size: 14px;
+    color: #1A3665;
+}
+
+#xptContentMain {
+   text-align: center;
+}

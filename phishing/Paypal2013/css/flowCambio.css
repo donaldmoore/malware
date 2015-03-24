@@ -1,0 +1,142 @@
+/**-----------------------------------------------------------------
+	 Intl Add Currencies, Cambio #6643
+------------------------------------------------------------------- */
+
+table#transactionFees {
+	border: 1px solid #83a8cc;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table#transactionFees td {
+	border: 1px inset #ebf1f7;
+	text-align:left;
+	padding: 5px;
+	font-size: 10px;
+}
+
+table#transactionFees td.header {
+	border: 1px inset #ebf1f7;
+	background-color: #ebf1f7;
+	text-align:left;
+	padding: 5px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+/*
+	Styles for Currency Converter
+*/
+
+div#conversionResultAnnouncement {
+	margin: 20px 0px 10px 0px;
+}
+
+td.conversionArrowCell {
+	text-align: right;
+	vertical-align:top;
+}
+
+img.conversionArrow {
+	width: 13px;
+	height: 13px;
+	margin-top: 10px;
+}
+
+td#conversionResultCell {
+	padding-top: 10px;
+}
+
+span.conversionResult {
+	background-color: #ebf1f7;
+	border: 1px solid #83a8cc;
+	margin-top: 10px;
+	white-space: nowrap;
+	padding: 2px 3px 2px 3px;
+}
+
+span.conversionResult.empty {
+	padding: 2px 100px 2px 3px;
+	color: #ebf1f7;
+}
+span.hide{
+  visibility:hidden;
+}
+
+span.feeNote {
+	font-size:12px;
+}
+
+td.buySellInfo {
+	font-size:12px;
+	color:#a59ea5;
+}
+
+td.buySellInfo ul{
+	margin-top:0;
+}
+
+/*
+	Styles for Account Overview
+*/
+table.accountBalanceBox  {
+	border: solid 1px #83A8CC; 
+	border-collapse: collapse;
+	width: 98.7%;
+	*width: 99%;
+	font-size: 11px;
+	padding: 0;
+	margin: 0 0 15px 0;
+}
+table.accountBalanceBox th, table.accountBalanceBox td {
+	border: solid 1px #83A8CC; 
+	font-size: 11px !important;
+}
+table.accountBalanceBox thead th {
+	text-align: left;
+}
+table.accountBalanceBox thead th span.limits {
+	float: right;
+	_position: fixed;
+	_z-index: 2;
+	font-size: 11px; 
+	font-weight: normal !important; 
+	text-align: right;
+}
+
+
+table.accountBalanceBox thead th span.autoTooltip {
+	float: left;
+	border-bottom: dotted 1px #000;
+	font-weight: bold !important;
+}
+table.accountBalanceBox span.title {
+	float: left;
+}
+table.accountBalanceBox tbody tr th span {
+	border-bottom: dotted 1px #000;
+}
+div#main-content table.accountBalanceBox tbody tr th {
+	width: 50%;
+}
+/* th fix is for ie compression issue, but works ok for all */
+table.accountBalanceBox th {
+	width: 28% !important;
+}
+
+
+.accountERBLink {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.accountBalanceFontLeft {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 700; TEXT-ALIGN: left}
+.accountBalanceFontRight{font-size: 11px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; TEXT-ALIGN: right}
+
+.strikethis
+{
+font-size: 11px;
+font-family: Arial;
+color: #666;
+text-decoration: line-through;
+}

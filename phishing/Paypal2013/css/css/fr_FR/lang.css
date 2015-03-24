@@ -1,0 +1,24 @@
+/* 
+	Title: fr_FR/lang.css
+	Author Name: Steve Ganz
+	Author Date: 2005-10-28
+	Description: Exclusive and redefined rules for fr_FR.
+*/
+div#header.mainHeader { width: 900px !important; }
+div#header.mainHeader form { width: 250px; }
+div#navPrimary { width: 675px; }
+div#navPrimary a { padding: 0px 0px 0px 5px; }
+div#navPrimary a span { padding:10px 12px 6px 6px; }
+div#navPrimary li#navMyAccount.expanded ul { width: 670px; left: -15px; }
+div#navPrimary li.expanded ul a span { padding: 10px 10px 3px 6px; }
+#xptContentContainer{ }
+#thank-you-message{ _width: 766px; }
+div#api div.credential { height:7.5em !important; }
+#header.srd form#searchForm {
+	width: 200px;
+}
+BODY#receipt TABLE#customer-details {WIDTH:310px!important;}
+a#csc-hover {bottom:16px; font-size:11px; left:61px; position:relative;}
+div.exp-date {width:108px;}
+/* rosetta related fix for FR*/
+div.subscrbox div.subscrhead h4 {padding:0 0 10px 8px;}

@@ -1,0 +1,34 @@
+#xptTitle {display:none;}
+
+#xptContentMain legend {display: none;}
+#xptContentMain div.main {width: 760px;}
+#xptContentMain div.troubleshootingTips {margin-left: 10px; width: 560px; float: left;}
+#xptContentMain div.troubleshootingTips li {list-style-type: none; margin-left: 0;}
+#xptContentMain .main #content {font-size: 12px;margin-top:0pt;}
+#xptContentMain div, td {font-size: 12px; font-family: Arial;}
+#xptContentInner td h2 {font-size: 12px; font-family: Arial; font-weight: bold;}
+
+div.box {width:178px; margin:0 0 5px 5px; border:1px solid #d2d6d9;}
+div.box div.header {padding:.5em 10px .4em 10px; background:#d2d6d9 url(../../en_US/i/pui/core/box_hdr_bg.jpg) top left repeat-x;}
+div.box div.header h2, .box div.header h3 {color:#333; font-size:1em;}
+div.box div.body {padding:1px 10px; background:#d2d6d9 url(../../en_US/i/pui/core/box_body_bg.jpg) top left repeat-y;}
+
+.main #content .login {float:left; border:1px solid #ccc;}
+.main #content .login .header {background:#bababa url(../../en_US/i/pui/core/login_hdr_bg.jpg) top left repeat-x;}
+.main #content .login .header h2 {display:inline; padding-right:15px; background:url(../../en_US/i/pui/core/icon_login_lock.gif) center right no-repeat;}
+.main #content .login .body {background:url(../../en_US/i/pui/core/login_body_bg.jpg) top left repeat-y;}
+.main #content .login p {margin:0 0 1em 0; font-size:.9em;}
+.main #content .login form fieldset {margin:1em 0;}
+.main #content .login form legend {display:block; position:absolute; top:0; left:-500em; width:1px; height:1px; overflow:hidden; text-indent:-9999em; line-height:0;}
+.main #content .login form label {display:block; margin:0 0 .2em 0; font-size:1.1em; text-align:left;}
+.main #content .login form input {width:146px; padding:2px 1px;}
+.main #content .login form input.button {padding:1px 6px; margin-right:0;}
+
+
+.main #content .container {float:right; width:560px; border:1px solid #ccc; padding-bottom:1px;}
+
+.main #content .container .notes {clear:both; margin:0 16px; font-size:.9em;}
+.main #content .container .notes p {margin:1em;}
+
+.main #content input.loginRepeatError {background-color: #ffffe0;}
+span.error {background-image: none;}

@@ -1,0 +1,46 @@
+form#rosetta {
+	width:620px; 
+	margin:0 auto; 
+	text-align:right;
+	background: #fff;
+	display: block;
+}
+
+form#rosetta fieldset {
+	position: relative; 
+	clear:both; 
+	margin:0; 
+	border:none; 
+	padding:0;
+}
+form#rosetta legend {
+	display:none;
+}
+form#rosetta label {
+	display:block; 
+	position:absolute; 
+	top:0; 
+	left:-500em; 
+	width:1px; 
+	height:1px; 
+	overflow:hidden; 
+	text-indent:-9999em; 
+	line-height:0;
+}
+
+form#rosetta #rosetta_dropdown{
+	color:#000000;
+	font-family:verdana,arial,helvetica,sans-serif;
+	font-size:13px;
+	font-weight:400;
+}
+
+form#rosetta button {
+	border:none;
+	padding:0;
+	background:none;
+	/* vertical-align:top */
+	/* add by Xin */
+	padding-left: 5px;
+	vertical-align: -20%;;
+}

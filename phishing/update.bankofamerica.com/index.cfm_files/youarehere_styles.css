@@ -1,0 +1,80 @@
+.oma-module-header {
+	font-size: 1.0em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #F0F5FA;
+	color : #003366;
+	font-weight : bold;
+}
+.oma-module-question {
+	font-size: 1.0em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #F0F5FA;
+	color : #333333;
+	font-weight : bold;
+}
+.oma-module-selected {
+	font-size: .67em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #FFFFFF;
+	color : #003366;
+	font-weight : bold;
+}
+.oma-module-upcoming {
+	font-size: .67em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #F0F5FA;
+	color : #999999;
+}
+.oma-module-past {
+	font-size: .67em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #F0F5FA;
+	color : #003366;
+}
+.red-error-box-text {
+	color: #990000;
+	font-weight: bold;
+	font-size: .67em; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.mod-tab-bgcolor {background-color: #BECEDD;}
+.mod-title {font-family: Verdana, Arial,helvetica,sans-serif; color:#003366; background-color:#BECEDD; text-decoration:none; font-weight:bold; font-size: .80em; margin-top:.15em; margin-bottom:.25em;}
+.nav-bgcolor {
+	background-color: #BECEDD;
+}
+.secure-area {font-family: Verdana, Arial, helvetica, Sans-serif; font-weight: bold; font-size: .85em; line-height: 90%; text-align: right; color: #003366; margin-bottom: 0px;}
+
+
+.mod-text {font-family: Verdana, Arial, helvetica, sans-serif; color:#000000; background-color:#F0F5F9; text-decoration:none; font-size:.67em;}
+
+.large {font-size: 1.2em;}
+
+.bluecorner {
+	background-color: #CCD6E3;
+}
+
+.error-table-border{
+	background-color: #990000;
+}
+.white-background{
+	background-color: #FFFFFF;
+}
+
+.grey-bullet {margin-top: .40em; list-style-image: url(/global/mvc_objects/images/list_greybullet.gif); font-size: 1em; font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+
+td.moduleswish 
+{ 
+  width:30px;	
+  background: #BECEDD url(/loansandhomes/apply/data/youarehere/lightblue_mod_swish.gif) no-repeat right;
+}
+
+/*create module box in light grey*/
+.bg3, .bg3-title  { background-color: #E9E9EA; }
+.bg3-title { padding : 3px 10px 3px 3px;  border-left: 3px solid #E9E9EA; }
+.bg3-hline { background-color: #E9E9EA; background-image: url(/global/mvc_objects/images/rule-e9e9ea.gif); background-repeat: repeat-x; }
+.pg-title {	font-size: .9em; color: #CC0000; font-weight: bold;	padding-top: 12px; }
+.paragraph {color: #333333; margin-top: .45em; margin-bottom: .45em;}
+.mod-hdr { color: #333333; font-weight: bold; font-size: .8em; display: inline; line-height: 1.2em; font-family: verdana,arial,helvetica,sans-serif; }
+/*.mod-txt, .mod-txt2 {color: #333333; font-size: .9em;	margin: 0px; padding: 0px 0px 5px 0px;  font-family: verdana,arial,helvetica,sans-serif;}*/
+.mod-content { padding: 5px 5px 5px 5px; }
+.inline {display: inline;}

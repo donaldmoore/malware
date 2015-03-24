@@ -1,0 +1,152 @@
+.table-hs {font-size: 99%; margin-top: .45em; }
+TD.hs {	border-bottom : 1px solid #E1E1E1;}
+TH.hs {	border-bottom : 1px solid #E1E1E1;}
+.mod-hdr6 { color: #333333; font-weight: bold; font-size: .67em; display: inline; line-height: 1.2em; font-family: verdana,arial,helvetica,sans-serif; }
+
+.bg-oma, .bg-oma-title 	{
+
+	 background-color: #D3E2EF;
+
+}
+
+.bg-oma-title{
+
+	padding : 3px 10px 3px 3px;  border-left: 3px solid #D3E2EF; 
+
+}
+
+.bg-oma-hline { background-color: #D3E2EF; background-image: url(/global/mvc_objects/images/rule-e9e9ea.gif); background-repeat: repeat-x; }
+
+.oma-mod-text{
+
+	background-color:#F0F5F9;
+
+}
+
+.oma-module-header {
+
+	font-size: 1em;
+
+	font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+
+	background-color : #F0F5FA;
+
+	color : #003366;
+
+	font-weight : bold;
+
+}
+
+.oma-module-selected {
+
+	font-size: .69em;
+
+	font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+
+	background-color : #FFFFFF;
+
+	color : #003366;
+	
+
+}
+
+.oma-module-upcoming {
+
+	font-size: .69em;
+
+	font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+
+	background-color : #F0F5FA;
+
+	color : #999999;
+
+}
+
+.oma-module-past {
+
+	font-size: .69em;
+
+	font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+
+	background-color : #F0F5FA;
+
+	color : #003366;
+
+}
+ .hidden-left {font-size: 0px; left: -10000px; position: absolute; }
+ 
+ .submitLink {color: #00f; background-color: transparent; font-weight:bold; font-size:100%; font-family : Verdana, Arial, Geneva, Helvetica, sans-serif; text-decoration: underline; border: none; cursor: pointer; cursor: hand;}
+ 
+ .submitLinkRight {color: #00f; background-color: transparent; font-weight:bold; font-size:100%; font-family : Verdana, Arial, Geneva, Helvetica, sans-serif; text-decoration: underline; border: none; cursor: pointer; cursor: hand; right: -60 px; position: relative; }
+  
+ .submitLinkLeft {color: #00f; background-color: transparent; font-weight:bold; font-size:100%; font-family : Verdana, Arial, Geneva, Helvetica, sans-serif; text-decoration: underline; border: none; cursor: pointer; cursor: hand; left: -25 px; position: relative; }
+
+.contentLink {
+   color: #00f;
+   background-color: transparent;
+   text-decoration: underline;
+   font-size: .95em;
+   border: none;
+   cursor: pointer;
+   cursor: hand;
+   font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+
+}
+.sec-title-header {
+	HEIGHT: 25px; COLOR: #333333; BACKGROUND-COLOR: #e9e9ea; FONT-SIZE: 71%; FONT-FAMILY: verdana,arial,geneva,helvetica,sans-serif; TEXT-ALIGN: left; FONT-WEIGHT: bold; vertical-align:middle; 
+}
+
+.table-border4 {BACKGROUND-COLOR: #ced6bd;}
+.bg6{BACKGROUND-COLOR: #e4e7d5;}
+
+
+.table-border-cross {
+	BORDER-RIGHT: #9ca095 1px solid; BORDER-TOP: #9ca095 1px solid;BORDER-BOTTOM: #9ca095 1px solid;BORDER-LEFT: #9ca095 1px solid; BACKGROUND-COLOR: #e4e7d5;
+}
+.table-border-cross-nobottom {
+	BORDER-RIGHT: #9ca095 1px solid; BORDER-TOP: #9ca095 1px solid;BORDER-LEFT: #9ca095 1px solid; BACKGROUND-COLOR: #e4e7d5;
+}
+.table-border-cross-notopmargin {
+	BORDER-RIGHT: #9ca095 1px solid; BORDER-BOTTOM: #9ca095 1px solid;BORDER-LEFT: #9ca095 1px solid; BACKGROUND-COLOR: #e4e7d5;
+}
+.bg7{
+BACKGROUND-COLOR: #f1f1f1;
+}
+
+.th-header-acct{
+	MARGIN-BOTTOM: 6px #FFFFFF; BACKGROUND-COLOR: #9ca095;
+}
+.select-acct-bgcolor{
+BACKGROUND-COLOR: #e4e7d5;
+
+}
+.field-row-level-1-white {
+	MARGIN-BOTTOM: #ffffff; 10px solid; 
+}
+
+.table-odao-white{
+BACKGROUND-COLOR: #e4e7d5;
+}
+.tab-border-1 {
+	BORDER-TOP: 2px solid #FFFFFF;
+}
+.grey-bgcolor{BACKGROUND-COLOR:F4F4F4;}
+.field-row-level-1-grey-nobottom
+{
+background-color:E4E7D5;margin-top:10px;margin-left:10px;margin-right:10px;margin-bottom:-2px;
+}
+.field-row-level-1-grey-notop
+{
+background-color:E4E7D5;margin-bottom:10px;margin-left:10px;margin-right:10px;margin-top:-2px;
+}
+
+.terms-grey {BORDER-BOTTOM: 1px solid #CCCCCC; padding : 7px 7px 7px 7px; background-color:F6F6F6; }
+.terms-white {BORDER-BOTTOM: 1px solid #CCCCCC; padding : 7px 7px 7px 7px; }
+
+.bold { font-weight: bold;}
+
+.terms-font { font-size:8pt;}
+
+.section-hdr { color: #424242; font-weight: bold; font-size: 0.8em; font-family: verdana,arial,helvetica,sans-serif; }
+
+.grey-bullet-spacing {margin-bottom: .20em; margin-top: .30em; list-style-image: url(/global/mvc_objects/images/list_greybullet.gif);}

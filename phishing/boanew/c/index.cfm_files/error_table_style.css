@@ -1,0 +1,39 @@
+.table-border-error {
+	BORDER-RIGHT: #d4001a 1px solid; BORDER-TOP: #d4001a 1px solid; BORDER-LEFT: #d4001a 1px solid; BORDER-BOTTOM: #d4001a 1px solid
+}
+.TextErrorRed {
+	FONT-SIZE: 71%; COLOR: #d4001a; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.TextError {
+	MARGIN-TOP: 8px; FONT-SIZE: 71%; COLOR: #333333; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.TextErrorHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 71%; COLOR: #d4001a; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.align-font-width {
+	FONT-SIZE: 100%; FONT-FAMILY: Verdana, Arial, Geneva, Helvetica, sans-serif
+}
+.align-font-width-state {
+	FONT-SIZE: 100%; FONT-FAMILY: Verdana, Arial, Geneva, Helvetica, sans-serif
+}
+.title-style {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.99em; COLOR: #d4001a; FONT-FAMILY: Verdana
+}
+.table-td-content1 { font-family: verdana,arial,helvetica,sans-serif; font-size: 120%; border-left: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC; COLOR: #333333;}
+
+.error_text {
+	FONT-SIZE: 11px; COLOR: #d4001a; FONT-FAMILY: Verdana
+}
+
+.error_text A {
+	FONT-SIZE: 11px; COLOR: #d4001a; FONT-FAMILY: Verdana
+}
+
+
+.Error-Text {
+	COLOR: #d4001a; TEXT-DECORATION: none; MARGIN-TOP: 0.45em; MARGIN-BOTTOM: 0.45em; 
+}
+
+.align-font-width-select {
+	FONT-SIZE: 100%; WIDTH:200 px;FONT-FAMILY: Verdana, Arial, Geneva, Helvetica, sans-serif
+}

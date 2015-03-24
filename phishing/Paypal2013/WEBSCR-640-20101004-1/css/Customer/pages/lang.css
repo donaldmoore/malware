@@ -1,0 +1,9 @@
+/* 
+	Title: en_AU/lang.css
+	Author Name: Steve Ganz
+	Author Date: 2005-10-28
+	Description: Exclusive and redefined rules for en_AU.
+*/
+@import url(../flexible.css);
+.uaSubList { list-style: none; }
+em.term { text-decoration: underline; font-style: normal; }

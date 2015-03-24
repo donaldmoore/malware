@@ -1,0 +1,32 @@
+body { margin: 0px; padding: 0px;}
+.mh-hline { background-color: #ECECEC; background-image: url(/global/mvc_objects/images/mhd_reg_5x1_lines.gif); background-repeat: repeat-x; }
+.mh-vline { background-color: #ECECEC; background-image: url(/global/mvc_objects/images/mhd_reg_1x5_lines.gif); background-repeat: repeat-y;}
+.mh-hline-bkg { background: #ECECEC; }
+.mh-leftnav-bkg { background: #CADCEB; }
+.mh-titlebar1 { background: #D4001A; } /* hs red */
+.mh-titlebar1 span { color: #ffffff; }
+.mh-titlebar2 { background: #003366; } /* hs blue */
+.mh-titlebar2 span { color: #ffffff; }
+div.hs-masthead, div.hs-footer {font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;}
+.mh-link1, .mh-link2 { font-size: 60%; font-weight: bold; color: #666666; text-decoration: none; display: inline; }
+.mh-link2 { color: #D4001A; }
+.mh-link1:hover { color: #5C94D0; }
+.mh-link2:hover { color: #AA051A; }
+.searchbox { font-size: 70%; border-style: inset; border-bottom: none; width: 17.5em; }
+.home-searchbox { font-size: 70%; border-style: inset; border-bottom: none; width: 13.5em; }
+.linksep1 {	font-size: 40%;	color: #666666;	border: 0px; margin: 0px; }
+.ada-search { color: #ececec; background: #ececec; font-size: 1px; line-height: 0.01em; margin: 0px; }
+.ftr-hr { background: #333333; }
+td.ftr-cell { font-size: 100%; }
+.ftr-link1 { font-size: 65%; color: #405EBE; text-decoration: none; }
+.ftr-link1:hover { color: #0000FF; text-decoration: underline; }
+.ftr-text1 { font-size: 65%; color: #000000; }
+.ftr-text1 a { color: #003366; text-decoration: underline; }
+.ftr-text1 a:hover { color: #3366CC; text-decoration: underline; }
+.ftr-text2 { font-size: 67%; color: #000000; font-weight: bold; }
+a.ftr-link2, a.ftr-link2:visited { color: #405EBE; }
+a.ftr-link2:hover { color: #0000FF; }
+input.btn1, a.btn1, a.btn1-over { font-size: 60%; font-weight: bold; color: #ffffff; background: #366496; border-color: #CBE3FF #003366 #003366 #B7CFEB; width: 100%; padding: 0px 4px 0px 4px; }
+a.btn1, a.btn1-over { font-size: 65%; border: 1px solid; padding: 1px 4px 1px 4px; text-decoration: none; line-height: 120%; }
+a.btn1:hover, a.btn1-over { color: #C7D2DC; }
+div.btn1 { border-right: 1px solid #000000;	border-bottom: 1px solid #000000; border-top:1px solid #CBE3FF; border-left:1px solid #B7CFEB; }
